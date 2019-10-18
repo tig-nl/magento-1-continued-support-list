@@ -1,17 +1,17 @@
-# Listing of extensions providing support after Magento 1 EOL
+# List of extensions providing support after Magento 1 EOL
 
-Magento is planning to end the support of Magento 1 in June 2020. But will this be the end of the many extensions that have been created by all the extension developers?
+Magento is planning to end the support of Magento 1 in June 2020. What does this mean for the extensions that we've developed for Magento?
 
-This list is to provide an overview of various extension developers and their extensions and the support that they will (or won't) deliver after Magento officially drops the support for Magento 1.
+This list provides an overview of extensions available for Magento 1 and the support that will (or will not) be delivered after Magento officially drops its support for Magento 1.
 
-Feel free to fork off this repository and create a pull request to supplement this list. 
+Feel free to fork off this repository and create a pull request to update this list.
 
-| Extension creator          | Extension name         |Support after Magento EOL |
+| Developer                  | Extension              |Support after Magento EOL |
 |----------------------------|------------------------|--------------------------|
-|TIG                         |TIG_PostNL              |No support                |
+|TIG                         |TIG_PostNL              |None                      |
 |TIG                         |TIG_Buckaroo            |Unknown                   |
-|TIG                         |TIG_Postcode            |Support                   |
-|TIG                         |TIG_TinyPNG             |Support                   |
+|TIG                         |TIG_Postcode            |Yes                       |
+|TIG                         |TIG_TinyPNG             |Yes                       |
 |                            |                        |                          |
 |                            |                        |                          |
 |                            |                        |                          |
