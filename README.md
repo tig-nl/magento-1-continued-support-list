@@ -11,7 +11,7 @@ Feel free to fork off this repository and create a pull request to update this l
 |TIG                         |TIG_PostNL              |None                      |
 |TIG                         |TIG_Buckaroo            |Unknown                   |
 |TIG                         |TIG_Postcode            |Yes                       |
-|TIG                         |TIG_TinyPNG             |Yes                       |
+|TIG                         |TIG_TinyPNG             |Unknown                   |
 |                            |                        |                          |
 |                            |                        |                          |
 |                            |                        |                          |
